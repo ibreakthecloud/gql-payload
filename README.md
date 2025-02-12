@@ -1,4 +1,4 @@
-# GQL Payload 
+# GQL Payload 💪
 gql-payload returns the request body for the provided query or mutation in Go. It is the strip down version of go based gql-client client only till query builder.
 
 ### Example: 
