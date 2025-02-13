@@ -20,3 +20,4 @@ reqBody, _ := gql.Var("id", "b1f6366f-5263-4f9e-864b-dde9af14ea840").GenerateReq
 r, _ := http.NewRequest("POST", GQL_SERVER_URL, reqBody)
 ```
 
+
